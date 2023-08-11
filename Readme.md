@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza R.</h1>
 <h3 align="center">Empowering Success through Technical Expertise and Creative Problem-Solving.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bolddusk" alt="bolddusk" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bolddusk" alt="bolddusk" /></a> </p> -->
 
 - 🌱 I’m currently learning **Google Project Management**
 
