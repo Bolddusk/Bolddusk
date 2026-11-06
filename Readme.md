@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bolddusk" alt="bolddusk" /></a> </p> -->
 
-- 🌱 I’m currently learning **Google Project Management**
+- 🌱 **Google Project Management**
 
 - 📫 How to reach me **bolddusk@gmail.com**
 
